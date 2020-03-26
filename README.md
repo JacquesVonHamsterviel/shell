@@ -1,5 +1,5 @@
 # Shell
-V2RAY-233blog
+<p>V2RAY-233blog脚本</p>
  <code>bash &lt;(curl -s -L https://raw.githubusercontent.com/2292086428/shell/master/v2ray.sh)
 </code>
 <blockquote>
@@ -8,3 +8,6 @@ ubuntu/debian 系统安装 Curl 方法: <code>apt-get update -y &amp;&amp; apt-g
 centos 系统安装 Curl 方法: <code>yum update -y &amp;&amp; yum install curl -y</code><br>
 安装好 curl 之后就能安装脚本了</p>
 </blockquote>
+<p>V2ray-ipv6安装脚本</p>
+<code>wget https://raw.githubusercontent.com/2292086428/shell/master/v2ray-ipv6.sh
+</code>
