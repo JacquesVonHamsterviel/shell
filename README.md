@@ -1,6 +1,6 @@
 # Shell
 V2RAY-233blog
- <code>bash &lt;(curl -s -L https://git.io/v2ray.sh)
+ <code>bash &lt;(curl -s -L https://raw.githubusercontent.com/2292086428/shell/master/v2ray.sh)
 </code>
 <blockquote>
 <p>如果提示 curl: command not found ，那是因为你的 VPS 没装 Curl<br>
