@@ -348,7 +348,4 @@ line 13 尾巴要加上一个 ,
 <pre class="chroma"><code class="language-bash" data-lang="bash">service v2ray start
 service v2ray status</code></pre></td></tr></table>
 </div>
-</div>
-
-	</body>
 </html>
